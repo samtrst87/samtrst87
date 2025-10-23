@@ -7,26 +7,31 @@
 ---
 
 ## 🚀 Chi Sono
-
-Mi chiamo **Lukac Samuel**, sono un **Cyber Security Specialist** con una profonda passione per la sicurezza informatica e l'informatica forense.
+Mi chiamo Samuel, sono un **Cyber Security Specialist**, ho una profonda passione per la sicurezza informatica e l'informatica forense.
 Ho completato un **Master in Cyber Security** presso **EPICODE Institute of Technology**, acquisendo solide competenze teoriche e pratiche nella **protezione dei sistemi**, **analisi malware avanzata**, **penetration testing** e **gestione degli incidenti** di sicurezza.
 Abituato a lavorare in **TEAM**, traduco la mia determinazione ad apprendere in competenze **concrete** e **tangibili**.
 
 ---
 
-## 🎯 Obiettivi Attuali & Contatti
+## 🎯 Obiettivi Attuali & **Contatti:** 📫
 
 Il mio obiettivo è ottenere un'opportunità professionale in un ruolo operativo all'interno di un **SoC** o di un team di **Incident Response**.
 
-👯 **Cerco opportunità come:** Junior SOC Analyst, Junior Penetration Tester, Tirocini e Stage in Cybersecurity
+👯 **Cerco opportunità come:** Junior Penetration Tester, Junior SOC Analyst, , Tirocini e Stage in Cybersecurity
 
-📫 **Come contattarmi:** Tel. +39 3288253020 samuel87.work@gmail.com <div align="left">
-  <a href="https://www.linkedin.com/in/lukac-samuel/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+--- 
+
+<div align="left">
+  <a href="https://wa.me/393288253020" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-228B22?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
   <a href="mailto:samuel87.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://www.linkedin.com/in/lukac-samuel/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
   <a href="https://github.com/samtrst87" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -60,9 +65,9 @@ Rebis S.R.L. | Adecco | 2023
 ### 🌍 Systems
 
 <div>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Linux-8B3A8B?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Microsoft_Windows-1f6feb?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-  <img src="https://img.shields.io/badge/Windows_Server-238636?style=for-the-badge" alt="Windows Server"/>
+  <img src="https://img.shields.io/badge/Windows_Server-FFD700?style=for-the-badge" alt="Windows Server"/>
 </div>
  
 ### 💻 Linguaggi di Programmazione
@@ -76,24 +81,24 @@ Rebis S.R.L. | Adecco | 2023
 
 <div>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/PowerShell-017CBA?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/PowerShell-FFD700?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
 </div>
 
 ### 🔒 Cybersecurity & Penetration Testing
 
 <div>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-8B0000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
 </div>
 <div>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF8C00?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/Metasploit-000080?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
   <img src="https://img.shields.io/badge/OWASP_ZAP-4B0082?style=for-the-badge" alt="OWASP ZAP"/>
 </div>
 
 ### 🛡️ SOC & SIEM Tools
 
 <div>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
+  <img src="https://img.shields.io/badge/Splunk-FFD700?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
   <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white" alt="ELK Stack"/>
 </div>
 
@@ -103,49 +108,50 @@ Rebis S.R.L. | Adecco | 2023
   <img src="https://img.shields.io/badge/Flare_VM-BE123C?style=for-the-badge" alt="FLare VM"/>
 </div>
 <div>
-  <img src="https://img.shields.io/badge/IDA_Pro-0066CC?style=for-the-badge" alt="IDA Pro"/>
-  <img src="https://img.shields.io/badge/Ghidra-DC2626?style=for-the-badge" alt="Ghidra"/>
-  <img src="https://img.shields.io/badge/x64dbg-1F2937?style=for-the-badge" alt="x64dbg"/>
+  <img src="https://img.shields.io/badge/CFF_Explorer-D3D3D3?style=for-the-badge" alt="CFF Explorer"/>
+  <img src="https://img.shields.io/badge/Any.Run-0066CC?style=for-the-badge" alt="Any.Run"/>
+  <img src="https://img.shields.io/badge/x64dbg-FF8C00?style=for-the-badge" alt="x64dbg"/>
 </div>
 
 ### 🔐 Security Specializations
 
 <div>
-  <img src="https://img.shields.io/badge/Assessment-059669?style=for-the-badge" alt="Assessment"/>
-  <img src="https://img.shields.io/badge/Web_App_Security-0891b2?style=for-the-badge" alt="Web Security"/>
-  <img src="https://img.shields.io/badge/Identity_Management-A855F7?style=for-the-badge" alt="Identity Management"/>
+  <img src="https://img.shields.io/badge/Assessment-1E90FF?style=for-the-badge" alt="Assessment"/>
+  <img src="https://img.shields.io/badge/Web_App_Security-663399?style=for-the-badge" alt="Web Security"/>
+  <img src="https://img.shields.io/badge/Identity_Management-000080?style=for-the-badge" alt="Identity Management"/>
 </div>
 
 <div>
-  <img src="https://img.shields.io/badge/Vulnerability_Assessment-DC2626?style=for-the-badge" alt="Vulnerability Assessment"/>
-  <img src="https://img.shields.io/badge/Incident_Response-00A86B?style=for-the-badge" alt="Incident Response"/>
-  <img src="https://img.shields.io/badge/Remediation-F97316?style=for-the-badge" alt="Remediation"/>
-  <img src="https://img.shields.io/badge/Mitigation-EA580C?style=for-the-badge" alt="Mitigation"/>
+  <img src="https://img.shields.io/badge/Vulnerability_Assessment-FF8C00?style=for-the-badge" alt="Vulnerability Assessment"/>
+  <img src="https://img.shields.io/badge/Incident_Response-8B0000?style=for-the-badge" alt="Incident Response"/>
+  <img src="https://img.shields.io/badge/Mitigation-FFD700?style=for-the-badge" alt="Mitigation"/>
+  <img src="https://img.shields.io/badge/Remediation-228B22?style=for-the-badge" alt="Remediation"/>
 </div>
 
 ### 🗄️ Database & Tools
 
 <div>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Microsoft_Office-FFA500?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office"/>
+  <img src="https://img.shields.io/badge/MySQL-006400?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office"/>
+  
 </div>
 
-### 🌐 Network 
+### 🌐 Network Tools
 
 <div> 
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-  <img src="https://img.shields.io/badge/Nmap-4C7C59?style=for-the-badge" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Wireshark-D3D3D3?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Nmap-0066CC?style=for-the-badge" alt="Nmap"/>
 </div>
 
 ### 💡 Soft Skills
 
 <div>
-  <img src="https://img.shields.io/badge/Team_Work-8B5CF6?style=for-the-badge" alt="Team Work"/>
-  <img src="https://img.shields.io/badge/Ascolto_Attivo-0891b2?style=for-the-badge" alt="Ascolto Attivo"/>
-  <img src="https://img.shields.io/badge/Problem_Solving-DC2626?style=for-the-badge" alt="Problem Solving"/>
-  <img src="https://img.shields.io/badge/Critical_Thinking-059669?style=for-the-badge" alt="Critical Thinking"/>  
+  <img src="https://img.shields.io/badge/Team_Work-000080?style=for-the-badge" alt="Team Work"/>
+  <img src="https://img.shields.io/badge/Ascolto_Attivo-663399?style=for-the-badge" alt="Ascolto Attivo"/>
+  <img src="https://img.shields.io/badge/Problem_Solving-FF0000?style=for-the-badge" alt="Problem Solving"/>
+  <img src="https://img.shields.io/badge/Critical_Thinking-FFD700?style=for-the-badge" alt="Critical Thinking"/>  
 </div>
 
 ---
@@ -153,8 +159,8 @@ Rebis S.R.L. | Adecco | 2023
 ## 💡 Progetti in Corso
 
 
-- 🔹 **Post Bootcamp** - Ripasso e approfondimento degli argomenti
-- 🔹 **Network Security Tool** - Tool manuali scritti in Python e C
+- 🔹 **Post Bootcamp** - Ripasso dettagliato  e approfondimento degli argomenti
+- 🔹 **Tools** - Tool manuali scritti in C e Python
 - 🔹 **Malware Analysis Lab** - Ambiente di analisi malware con FLARE VM
 
 
