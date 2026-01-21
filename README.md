@@ -159,8 +159,10 @@ Rebis S.R.L. | Adecco | 2023
 ## 💡 Progetti in Corso
 
 
-- 🔹 **Post Bootcamp** - Ripasso e approfondimento degli argomenti
-- 🔹 **Network Security Tool** - Tool manuali scritti in Python e C
+- 🔹 **Post Bootcamp** - Approfondimento degli argomenti
+- 🔹 **Investigazione** - Studio e test su Tool e risorse OSINT
+- 🔹 **Red Team** - Studio pratico di Burp Suite versione Professional 
+- 🔹 **Blue Team** - Studio, configurazione, uso e gestione SIEM
 - 🔹 **Malware Analysis Lab** - Ambiente di analisi malware con FLARE VM
 
 
