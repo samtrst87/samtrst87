@@ -65,7 +65,7 @@ Rebis S.R.L. | Adecco | 2023
   <img src="https://img.shields.io/badge/Windows_Server-238636?style=for-the-badge" alt="Windows Server"/>
 </div>
  
-### 💻 Linguaggi di Programmazione
+### 💻 Linguaggi di Programmazione (competenze base per interagire e modificare tool di cyber security)
 
 <div>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -153,9 +153,11 @@ Rebis S.R.L. | Adecco | 2023
 ## 💡 Progetti in Corso
 
 
-- 🔹 **Post Bootcamp** - Ripasso e approfondimento degli argomenti
-- 🔹 **Network Security Tool** - Tool manuali scritti in Python e C
-- 🔹 **Malware Analysis Lab** - Ambiente di analisi malware con FLARE VM
+- 🔹 **Post Bootcamp** - Approfondimento degli argomenti
+- 🔹 **Certificazione Comptia Security Plus** - Studio ed esercizi finalizzati a conseguire la certificazione nel 2026
+- 🔹 **Pen Tester** - Studio ed esercizi con BURP SUITE PROFESSIONAL su macchine virtuali vulnerabili in laboratorio
+- 🔹 **Investigazione** - Studio di Tool e pratiche OSINT legali applicabili al mondo del lavoro
+- 🔹 **Malware Analysis** - Esperimenti in laboratorio di analisi malware con FLARE VM
 
 
 ---
