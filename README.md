@@ -8,7 +8,7 @@
 
 ## 🚀 Chi Sono
 Mi chiamo Samuel, sono un **Cyber Security Specialist**, ho una profonda passione per la sicurezza informatica e l'informatica forense.
-Ho completato un **Master in Cyber Security** presso **EPICODE Institute of Technology**, acquisendo solide competenze teoriche e pratiche nella **protezione dei sistemi**, **analisi malware avanzata**, **penetration testing** e **gestione degli incidenti** di sicurezza.
+Ho completato un **Master in Cyber Security** presso **EPICODE Institute of Technology**, acquisendo solide competenze teoriche e pratiche nella **protezione dei sistemi**, **analisi malware**, **penetration testing** e **gestione degli incidenti** di sicurezza.
 Abituato a lavorare in **TEAM**, traduco la mia determinazione ad apprendere in competenze **concrete** e **tangibili**.
 
 ---
@@ -160,7 +160,7 @@ Rebis S.R.L. | Adecco | 2023
 
 
 - 🔹 **Post Bootcamp** - Approfondimento degli argomenti
-- 🔹 **Investigazione** - Studio e test su Tool e risorse OSINT
+- 🔹 **Investigazione** - Studio e test Tool e risorse OSINT
 - 🔹 **Red Team** - Studio pratico di Burp Suite versione Professional 
 - 🔹 **Blue Team** - Studio, configurazione, uso e gestione SIEM
 - 🔹 **Malware Analysis Lab** - Ambiente di analisi malware con FLARE VM
