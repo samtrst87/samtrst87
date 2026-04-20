@@ -7,17 +7,30 @@
 ---
 
 ## 🚀 Chi Sono
-Mi chiamo Samuel, sono un **Cyber Security Specialist**, ho una profonda passione per la sicurezza informatica e l'informatica forense.
-Ho completato un **Master in Cyber Security** presso **EPICODE Institute of Technology**, acquisendo solide competenze teoriche e pratiche nella **protezione dei sistemi**, **analisi malware**, **penetration testing** e **gestione degli incidenti** di sicurezza.
-Abituato a lavorare in **TEAM**, traduco la mia determinazione ad apprendere in competenze **concrete** e **tangibili**.
+Sono un **Cyber Security Specialist** con una forte passione per la sicurezza informatica, il penetration testing e l'informatica forense.
+
+Ho completato un Master in Cyber Security presso **EPICODE Institute of Technology**, dove ho sviluppato competenze teoriche e pratiche in:
+- Protezione dei sistemi
+- Penetration Testing
+- Vulnerability Assessment
+- Malware Analysis
+- SIEM e monitoraggio della sicurezza
+- Incident handling
+
+Da inizio **marzo 2026** sono in **stage presso BI@Work**, dove sto consolidando competenze pratiche in ambito cybersecurity, sicurezza dei sistemi e attività operative in contesto aziendale.
+Sono abituato a lavorare in team, ho un approccio pratico all’apprendimento e punto a trasformare studio, laboratorio ed esercitazione in competenze concrete e applicabili.
 
 ---
 
 ## 🎯 Obiettivi Attuali & **Contatti:** 📫
 
-Il mio obiettivo è ottenere un'opportunità professionale in un ruolo operativo all'interno di un **SoC** o di un team di **Incident Response**.
+Il mio obiettivo è ottenere un’opportunità professionale come **Junior Penetration Tester**, all’interno di un team di **Penetration Testing** o **Offensive Security**.
 
-👯 **Cerco opportunità come:** Junior Penetration Tester, Junior SOC Analyst, , Tirocini e Stage in Cybersecurity
+Sono interessato a opportunità come:
+- Junior Penetration Tester
+- Tirocini e Stage in Cybersecurity con focus Penetration Testing
+- Ruoli entry-level in Offensive Security
+- Attività di Vulnerability Assessment e Web Application Testing
 
 --- 
 
@@ -52,6 +65,10 @@ Talentform | GiGroup | 2024
 
 **Programmazione Java** (160 ore)  
 Rebis S.R.L. | Adecco | 2023
+
+### 🏆 Certificazioni
+
+- **eJPT – INE Security - eLearnSecurity Junior Penetration Tester** | Conseguita ad **Aprile 2026**
 
 ### 🏆 Certificazioni in Corso
 
