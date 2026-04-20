@@ -28,8 +28,8 @@ Il mio obiettivo è ottenere un’opportunità professionale come **Junior Penet
 
 Sono interessato a opportunità come:
 - Junior Penetration Tester
-- Tirocini e Stage in Cybersecurity con focus Penetration Testing
 - Ruoli entry-level in Offensive Security
+- - Ruoli entry-level in Incident Response
 - Attività di Vulnerability Assessment e Web Application Testing
 
 --- 
