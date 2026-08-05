@@ -1,6 +1,6 @@
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=5000&color=00FF00&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Ciao%2C+Sono+Samuel+Lukac+%F0%9F%91%8B;%F0%9F%94%90+Cyber+Security+Specialist+%F0%9F%94%90;%F0%9F%94%91+Ethical+Hacking+%F0%9F%94%91;%F0%9F%94%8E+SoC+Analyst+%F0%9F%94%8E" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=5000&color=00FF00&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Ciao%2C+Sono+Samuel+Lukac+%F0%9F%91%8B;%F0%9F%94%90+Cyber+Security+Specialist+%F0%9F%94%90;%F0%9F%94%91+Ethical+Hacking+%F0%9F%94%91;%F0%9F%94%8E+Pen+Tester+%F0%9F%94%8E" alt="Typing SVG"/>
     </h1>
 </div>
 
