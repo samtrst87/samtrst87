@@ -7,30 +7,75 @@
 ---
 
 ## 🚀 Chi Sono
-Sono un **Cyber Security Specialist** con una forte passione per la sicurezza informatica, il penetration testing e l'informatica forense.
 
-Ho completato un Master in Cyber Security presso **EPICODE Institute of Technology**, dove ho sviluppato competenze teoriche e pratiche in:
-- Protezione dei sistemi
+Sono Samuel Lukac, Cybersecurity Specialist con focus su Offensive Security, Web Application Security e Penetration Testing.
+
+Ho maturato esperienza pratica in security testing, vulnerability assessment e analisi tecnica di applicazioni software reali. Nel tirocinio IT e Cybersecurity presso Biatwork Srl ho contribuito alle attività di sicurezza sul prodotto E17 Nexus, svolgendo ricerca di vulnerabilità, test applicativi, analisi delle criticità e documentazione delle remediation.
+
+Il mio approccio combina mentalità offensiva, metodo di testing strutturato e attenzione all’impatto reale delle vulnerabilità su dati, accessi e proprietà intellettuale. Mi interessa individuare debolezze tecniche, riprodurle in modo controllato, valutarne il rischio e supportare la definizione di contromisure efficaci.
+
+Le aree in cui desidero crescere professionalmente sono:
+
 - Penetration Testing
+- Web Application Security
 - Vulnerability Assessment
-- Malware Analysis
-- SIEM e monitoraggio della sicurezza
-- Incident handling
-
-Da inizio **marzo 2026** sono in **stage presso BI@Work**, dove sto consolidando competenze pratiche in ambito cybersecurity, sicurezza dei sistemi e attività operative in contesto aziendale.
-Sono abituato a lavorare in team, ho un approccio pratico all’apprendimento e punto a trasformare studio, laboratorio ed esercitazione in competenze concrete e applicabili.
+- API Security
+- Authentication e Access Control Testing
+- Network Security e System Hardening
+- Security automation e Workflow AI applicati alla cybersecurity.
 
 ---
 
-## 🎯 Obiettivi Attuali & **Contatti:** 📫
+## 🧪 Esperienza Professionale
 
-Il mio obiettivo è ottenere un’opportunità professionale come **Junior Penetration Tester**, all’interno di un team di **Penetration Testing** o **Offensive Security**.
+🔐 Tirocinio IT & Cybersecurity — Biatwork Srl
+Marzo 2026 – Luglio 2026
 
-Sono interessato a opportunità come:
+Durante il tirocinio ho lavorato su attività di testing e sicurezza applicativa relative al prodotto software E17 Nexus.
+
+Attività principali:
+
+- Security testing e vulnerability research su software reale.
+- Analisi di vulnerabilità applicative, incluse possibili problematiche di SQL injection.
+- Assessment e test mirati con Burp Suite Professional.
+- Bug hunting, test funzionali, riproduzione dei difetti e reporting tecnico strutturato.
+- Documentazione delle criticità, valutazione dell’impatto e proposta di remediation.
+- Supporto al rafforzamento della protezione di dati e proprietà intellettuale del prodotto.
+- Analisi di firewall, ambienti virtuali e possibili falle di configurazione.
+- Preparazione di postazioni Windows per clienti, installazione di sistema operativo, software, aggiornamenti e soluzioni di backup su infrastruttura NAS.
+
+
+Questa esperienza mi ha permesso di applicare le competenze acquisite in laboratorio in un contesto aziendale, lavorando su qualità, sicurezza applicativa e affidabilità operativa di un prodotto destinato al rilascio commerciale.
+
+---
+
+## 🎯 Obiettivi Professionali & Contatti 📫
+
+Cerco un’opportunità professionale junior in cybersecurity, con particolare interesse per attività offensive e per la sicurezza applicativa.
+
+Sono interessato a ruoli quali:
+
 - Junior Penetration Tester
-- Ruoli entry-level in Offensive Security
-- Ruoli entry-level in Incident Response
-- Attività di Vulnerability Assessment e Web Application Testing
+- Junior Web Application Security Tester
+- Junior Offensive Security Analyst
+- Vulnerability Assessment Analyst
+- Security Tester
+- Junior Cybersecurity Analyst
+
+Ruoli entry-level in Incident Response, con possibilità di crescita tecnica.
+
+
+Mi caratterizzano un approccio pratico, curiosità tecnica, capacità di analisi e attenzione alla documentazione delle evidenze, dell’impatto e delle remediation.
+
+Contatti
+
+LinkedIn: linkedin.com/in/lukac-samuel
+GitHub: github.com/samtrst87
+Email: inserisci qui l’indirizzo professionale
+Località: Trieste, Italia.
+
+
+
 
 --- 
 
@@ -57,8 +102,14 @@ Sono interessato a opportunità come:
 ### 📜 Formazione
 
 **Master in Cyber Security Specialist** (420 ore)  
-EPICODE Institute of Technology | Luglio - Ottobre 2025  
-*Malware Analysis, Penetration Testing, SIEM, Vulnerability Assessment, Network Security*
+EPICODE Institute of Technology | Giugno 2025 – Ottobre 2025
+
+- Sicurezza di sistemi, reti e infrastrutture.
+- Attacchi, difese, contromisure e system hardening.
+- Vulnerability assessment e analisi dei log.
+- Laboratori pratici su firewall e scenari difensivi.
+- Fondamenti di SOC, sicurezza operativa, malware analysis, reverse engineering e digital forensics.
+
 
 **Corso Sistemista Informatico e Cybersecurity** (184 ore)  
 Talentform | GiGroup | 2024
@@ -68,120 +119,178 @@ Rebis S.R.L. | Adecco | 2023
 
 ### 🏆 Certificazioni
 
-- **eJPT – INE Security - eLearnSecurity Junior Penetration Tester** | Conseguita ad **Aprile 2026**
+eJPT — eLearnSecurity Junior Penetration Tester
+INE Security | Aprile 2026
+Certificazione pratica orientata a metodologia di assessment, network penetration testing e web application security.
+
+Applied AI Foundations
+OpenAI | Agosto 2026
+AI workflow design, automazione dei workflow, prompt engineering, human review e uso responsabile dell’AI.
+
+Google Prompting Essentials
+Google | Luglio 2026
+Prompt engineering, valutazione e iterazione dei prompt, produttività e uso responsabile dell’intelligenza artificiale.
 
 ### 🏆 Certificazioni in Corso
 
+<img src="https://img.shields.io/badge/CompTIA_Network+-In_Preparazione-blue?style=for-the-badge" alt="Security+"/>
 <img src="https://img.shields.io/badge/CompTIA_Security+-In_Preparazione-blue?style=for-the-badge" alt="Security+"/>
-<img src="https://img.shields.io/badge/CEH-Studio-orange?style=for-the-badge" alt="CEH"/>
-
+<img src="https://img.shields.io/badge/CompTIA_PenTest+-In_Preparazione-blue?style=for-the-badge" alt="Security+"/>
 ---
 
 ## 🔧 Competenze Tecniche
 
-### 🌍 Systems
+Competenze sviluppate attraverso formazione specialistica, laboratori pratici, certificazione eJPT e attività di security testing applicativo svolte durante il tirocinio presso Biatwork Srl.
+
+### 🔒 Web Application Security
+
+Attività di analisi e testing della sicurezza di applicazioni web, con attenzione a vulnerabilità, autenticazione, autorizzazione e documentazione delle remediation.
+
+- Vulnerability Assessment e Web Application Security Testing
+- Testing di autenticazione, session management e access control
+- SQL Injection Testing
+- API Security Testing
+- Bug Hunting e riproduzione controllata delle criticità
+- Analisi dell’impatto tecnico delle vulnerabilità
+- Security reporting, documentazione delle evidenze e remediation guidance
+
+<div>
+  <img src="https://img.shields.io/badge/Burp_Suite_Professional-FF8C00?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite Professional"/>
+  <img src="https://img.shields.io/badge/OWASP_ZAP-4B0082?style=for-the-badge" alt="OWASP ZAP"/>
+</div>
+
+### 🧪 Penetration Testing
+
+Approccio metodologico al penetration testing di reti e applicazioni, dalla fase di raccolta delle informazioni alla validazione e documentazione delle vulnerabilità.
+
+- Metodologia di assessment
+- Reconnaissance ed enumeration
+- Network Penetration Testing
+- Web Application Testing
+- Network scanning e service enumeration
+- Analisi e validazione controllata delle vulnerabilità
+- Documentazione tecnica, impatto e priorità di remediation
+
+<div>
+  <img src="https://img.shields.io/badge/Kali_Linux-8B0000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Metasploit-000080?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/Nmap-0066CC?style=for-the-badge" alt="Nmap"/>
+</div>
+
+### 🌐 Network Security e Infrastrutture
+
+Competenze relative alla sicurezza di reti, sistemi e ambienti virtualizzati, incluse analisi di configurazione, hardening e gestione operativa di endpoint.
+
+- Network Security e analisi delle superfici di attacco
+- Analisi del traffico di rete
+- Firewall rule analysis e verifica delle configurazioni
+- System Hardening
+- Virtualizzazione e laboratori di rete
+- Sistemi Windows e Linux
+- Preparazione e configurazione di postazioni Windows
+- Aggiornamenti software e gestione operativa degli endpoint
+- Supporto a infrastrutture di backup NAS
 
 <div>
   <img src="https://img.shields.io/badge/Linux-8B3A8B?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Microsoft_Windows-1f6feb?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
   <img src="https://img.shields.io/badge/Windows_Server-FFD700?style=for-the-badge" alt="Windows Server"/>
+  <img src="https://img.shields.io/badge/Wireshark-D3D3D3?style=for-the-badge&logo=wireshark&logoColor=black" alt="Wireshark"/>
 </div>
- 
-### 💻 Linguaggi di Programmazione (competenze base per interagire e modificare tool di cyber security)
+
+### 🐳 Container, automazione e sviluppo
+
+Competenze di base e operative per comprendere, adattare e automatizzare tool, script e workflow tecnici in ambito cybersecurity.
+
+- Scripting e automazione di attività tecniche
+- Utilizzo di Bash e PowerShell in ambienti Windows e Linux
+- Python per script e tool di supporto
+- Fondamenti di programmazione in Java, C e Ruby
+- Gestione del versionamento con Git
+- Docker e concetti di Container Security
+- Database relazionali e MySQL
 
 <div>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
-</div>
-
-<div>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/PowerShell-FFD700?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
+  <img src="https://img.shields.io/badge/MySQL-006400?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
 
-### 🔒 Cybersecurity & Penetration Testing
+### 🤖 AI e Security Workflow
+
+Competenze nell’utilizzo e nella progettazione di workflow supportati da AI, con attenzione a revisione umana, sicurezza dei processi e uso responsabile dei modelli linguistici.
+
+- Prompt Engineering
+- AI Workflow Design
+- Agentic Workflows
+- Automazione di attività e processi
+- LLM Workflow Security
+- Human review e uso responsabile dell’AI
+- Integrazione di strumenti AI in workflow tecnici e di analisi
 
 <div>
-  <img src="https://img.shields.io/badge/Kali_Linux-8B0000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-663399?style=for-the-badge" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/AI_Workflow_Design-1E90FF?style=for-the-badge" alt="AI Workflow Design"/>
+  <img src="https://img.shields.io/badge/Agentic_Workflows-8B3A8B?style=for-the-badge" alt="Agentic Workflows"/>
+  <img src="https://img.shields.io/badge/LLM_Security-8B0000?style=for-the-badge" alt="LLM Security"/>
 </div>
-<div>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF8C00?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
-  <img src="https://img.shields.io/badge/Metasploit-000080?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
-  <img src="https://img.shields.io/badge/OWASP_ZAP-4B0082?style=for-the-badge" alt="OWASP ZAP"/>
-</div>
 
-### 🛡️ SOC & SIEM Tools
+### 🔬 Malware Analysis e Digital Forensics
 
-<div>
-  <img src="https://img.shields.io/badge/Splunk-FFD700?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
-  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white" alt="ELK Stack"/>
-</div>
+Area di approfondimento attraverso laboratori dedicati a malware analysis, reverse engineering e analisi statica e dinamica di base.
 
-### 🔬 Malware Analysis & Reverse Engineering
+- Fondamenti di malware analysis
+- Analisi statica e dinamica di base
+- Fondamenti di reverse engineering
+- Fondamenti di digital forensics
+- Utilizzo di ambienti isolati per l’analisi di campioni e artefatti
 
 <div>
-  <img src="https://img.shields.io/badge/Flare_VM-BE123C?style=for-the-badge" alt="FLare VM"/>
-</div>
-<div>
-  <img src="https://img.shields.io/badge/CFF_Explorer-D3D3D3?style=for-the-badge" alt="CFF Explorer"/>
+  <img src="https://img.shields.io/badge/FLARE_VM-BE123C?style=for-the-badge" alt="FLARE VM"/>
+  <img src="https://img.shields.io/badge/CFF_Explorer-D3D3D3?style=for-the-badge&logoColor=black" alt="CFF Explorer"/>
   <img src="https://img.shields.io/badge/Any.Run-0066CC?style=for-the-badge" alt="Any.Run"/>
   <img src="https://img.shields.io/badge/x64dbg-FF8C00?style=for-the-badge" alt="x64dbg"/>
 </div>
 
-### 🔐 Security Specializations
+### 🛡️ SOC e Log Analysis
+
+Conoscenze sviluppate in formazione e laboratorio relative a monitoraggio, analisi dei log e gestione iniziale degli eventi di sicurezza.
+
+- Concetti di SOC e Security Operations
+- Analisi e correlazione dei log
+- Fondamenti di incident handling
+- Monitoraggio e individuazione di eventi anomali
+- Uso introduttivo di piattaforme SIEM
 
 <div>
-  <img src="https://img.shields.io/badge/Assessment-1E90FF?style=for-the-badge" alt="Assessment"/>
-  <img src="https://img.shields.io/badge/Web_App_Security-663399?style=for-the-badge" alt="Web Security"/>
-  <img src="https://img.shields.io/badge/Identity_Management-000080?style=for-the-badge" alt="Identity Management"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
+  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white" alt="ELK Stack"/>
 </div>
 
-<div>
-  <img src="https://img.shields.io/badge/Vulnerability_Assessment-FF8C00?style=for-the-badge" alt="Vulnerability Assessment"/>
-  <img src="https://img.shields.io/badge/Incident_Response-8B0000?style=for-the-badge" alt="Incident Response"/>
-  <img src="https://img.shields.io/badge/Mitigation-FFD700?style=for-the-badge" alt="Mitigation"/>
-  <img src="https://img.shields.io/badge/Remediation-228B22?style=for-the-badge" alt="Remediation"/>
-</div>
+### 💡 Competenze Trasversali
 
-### 🗄️ Database & Tools
-
-<div>
-  <img src="https://img.shields.io/badge/Microsoft_Office-FFA500?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office"/>
-  <img src="https://img.shields.io/badge/MySQL-006400?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  
-</div>
-
-### 🌐 Network Tools
-
-<div> 
-  <img src="https://img.shields.io/badge/Wireshark-D3D3D3?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-  <img src="https://img.shields.io/badge/Nmap-0066CC?style=for-the-badge" alt="Nmap"/>
-</div>
-
-### 💡 Soft Skills
-
-<div>
-  <img src="https://img.shields.io/badge/Team_Work-000080?style=for-the-badge" alt="Team Work"/>
-  <img src="https://img.shields.io/badge/Ascolto_Attivo-663399?style=for-the-badge" alt="Ascolto Attivo"/>
-  <img src="https://img.shields.io/badge/Problem_Solving-FF0000?style=for-the-badge" alt="Problem Solving"/>
-  <img src="https://img.shields.io/badge/Critical_Thinking-FFD700?style=for-the-badge" alt="Critical Thinking"/>  
-</div>
+- Approccio analitico e orientato alla risoluzione dei problemi
+- Capacità di apprendimento autonomo e continuo
+- Attenzione alla qualità e alla riproducibilità dei test
+- Documentazione tecnica chiara, strutturata e orientata alla remediation
+- Collaborazione in contesto aziendale
+- Ascolto attivo e comunicazione tecnica
+- Pensiero critico
+- Mentalità offensiva applicata alla sicurezza difensiva
 
 ---
 
 ## 💡 Progetti in Corso
 
+Post-Tirocinio — AI Security Automation: progettazione e sviluppo di workflow agentici per automatizzare attività di analisi, supporto operativo e servizi in ambito offensive security, con attenzione a validazione umana, sicurezza e tracciabilità dei risultati.
 
-- 🔹 **Post Bootcamp** - Approfondimento degli argomenti
-- 🔹 **Investigazione** - Studio e test Tool e risorse OSINT
-- 🔹 **Red Team** - Studio pratico di Burp Suite versione Professional 
-- 🔹 **Blue Team** - Studio, configurazione, uso e gestione SIEM
-- 🔹 **Malware Analysis Lab** - Ambiente di analisi malware con FLARE VM
-
+Preparato usando 
 
 ---
 
