@@ -67,12 +67,20 @@ Ruoli entry-level in Incident Response, con possibilità di crescita tecnica.
 
 Mi caratterizzano un approccio pratico, curiosità tecnica, capacità di analisi e attenzione alla documentazione delle evidenze, dell’impatto e delle remediation.
 
-Contatti
 
-LinkedIn: linkedin.com/in/lukac-samuel
-GitHub: github.com/samtrst87
-Email: samuel87.work@gmail.com
-Località: Trieste, Italia.
+## Contatti
+
+> **💼 LinkedIn**  
+> [linkedin.com/in/lukac-samuel](https://www.linkedin.com/in/lukac-samuel)
+>
+> **🐙 GitHub**  
+> [github.com/samtrst87](https://github.com/samtrst87)
+>
+> **✉️ Email**  
+> [samuel87.work@gmail.com](mailto:samuel87.work@gmail.com)
+>
+> **📍 Località**  
+> Trieste, Italia
 
 
 
