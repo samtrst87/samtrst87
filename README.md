@@ -71,7 +71,7 @@ Contatti
 
 LinkedIn: linkedin.com/in/lukac-samuel
 GitHub: github.com/samtrst87
-Email: inserisci qui l’indirizzo professionale
+Email: samuel87.work@gmail.com
 Località: Trieste, Italia.
 
 
